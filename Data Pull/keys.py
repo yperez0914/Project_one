@@ -1,4 +1,0 @@
-my_api_key ="OIzAV_YrskR2xaVYw26sZFcsljo-eHZoTsLOQe-Zr-FUmbFv10fccUhLHEKRexJ9CQ4A9GtX3BGsD1MTux16iY_jxFcuCjEVbA_bTqYE_R70cf3iPJw5FAfXgD7IX3Yx"
-
-gkey = "AIzaSyA2UVvGX9Cdi-t8MPE48ylo9Bb_QediXYM"
-
